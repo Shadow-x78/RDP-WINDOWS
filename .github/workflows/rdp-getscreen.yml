@@ -1,4 +1,4 @@
-name: GetScreen Windows (4H)
+name: RDP-GETSCREEN
 
 on:
   workflow_dispatch:
