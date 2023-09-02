@@ -1,4 +1,4 @@
-name: Windows - Anydesk
+name: RDP-ANYDESK
 
 on:
   workflow_dispatch:
