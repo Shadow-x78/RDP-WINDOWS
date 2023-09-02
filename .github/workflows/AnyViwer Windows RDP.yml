@@ -1,4 +1,4 @@
-name: AnyViewer Windows RDP
+name: RDP-ANYVIWER
 
 on:
   workflow_dispatch:
