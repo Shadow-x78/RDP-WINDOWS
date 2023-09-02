@@ -6,4 +6,4 @@ Username : runneradmin
 Password : P@ssw0rd!
 
 ## RUSTDESK
-PASSWORD : disalardp
+PASSWORD : Disalardp1
