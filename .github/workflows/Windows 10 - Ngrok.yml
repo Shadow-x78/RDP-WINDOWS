@@ -1,5 +1,4 @@
-name: Windows 10 - Ngrok
-
+name: Windows - Ngrok
 
 on: [push, workflow_dispatch]
 
